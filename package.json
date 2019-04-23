@@ -1,0 +1,13 @@
+{
+  "name": "meal-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@git.toptal.com:screening/anton-verhoeven.git",
+  "author": "Anton Verhoeven <antonverhoeven32@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "mealtracker.api",
+    "mealtracker.web"
+  ]
+}
